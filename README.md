@@ -2,7 +2,7 @@
   
 ### Hello I'm, Alexandre Spindola! :handshake:
 
-🏢 I work as a Full Stack Software Developer at TitansDev, with a focus on cloud services, Jamstack architecture, apps integrations and workflow automations.
+🏢 I work as a Full Stack Software Developer at TitansDev, with a focus on cloud services, Jamstack architecture, serverless apps integrations and workflow automations.
 
 🌱 Psychologist turned software developer, certified Google Cloud Associate Cloud Engineer and open source enthusiast, currently pursuing an MBA in Software Engineering at USP/Esalq (Brazil).
 
