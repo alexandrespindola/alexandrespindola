@@ -15,6 +15,9 @@
  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
  <img align="center" alt="Tailwind" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+ <img align="center" alt="PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+ <img align="center" alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
+ <img align="center" alt="Google Cloud" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
 </div>
   
 <div align="center"> <br>
