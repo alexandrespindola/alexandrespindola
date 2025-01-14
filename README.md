@@ -2,9 +2,9 @@
   
 ### Hello I'm, Alexandre Spindola! :handshake:
 
-🏢 I work as a Software Developer at TitansDev, with a focus on Full Stack apps and workflow automations.
+🏢 I work as a Full Stack Software Developer at TitansDev, with a focus on cloud services, apps integrations and workflow automations.
 
-🌱 I'm currently studying for an MBA in Software Engineering at USP/Esalq.
+🌱 I'm a certified Google Cloud Associate Cloud Engineer and an open source enthusiast, currently pursuing an MBA in Software Engineering at USP/Esalq (Brazil).
 
 </div>
 <div align="center">
@@ -20,6 +20,7 @@
  <img align="center" alt="WordPress" height="30" width="40" src="https://www.svgrepo.com/show/349568/wordpress.svg" />
  <img align="center" alt="Digital Ocean" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" />
  <img align="center" alt="Google Cloud" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
+ <img align="center" alt="Cloudflare" height="30" width="40" src="https://spindola.me/cloudflare.svg" />
  <img align="center" alt="Supabase" height="30" width="40" src="https://spindola.me/supabase.svg" />
  <img align="center" alt="Strapi" height="30" width="40" src="https://spindola.me/strapi.svg" />
  <img align="center" alt="n8n" height="30" width="40" src="https://spindola.me/n8n.svg" />
