@@ -17,10 +17,11 @@
  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
  <img align="center" alt="PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
  <img align="center" alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
- <img align="center" alt="Digital Ocean" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
+ <img align="center" alt="Digital Ocean" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" />
  <img align="center" alt="Google Cloud" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
- <img align="center" alt="Supabase" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
- <img align="center" alt="Strapi" height="30" width="40" src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=128,quality=90,fit=scale-down" />
+ <img align="center" alt="Supabase" height="30" width="40" src="https://spindola.me/supabase.svg" />
+ <img align="center" alt="Strapi" height="30" width="40" src="https://spindola.me/strapi.svg" />
+ <img align="center" alt="n8n" height="30" width="40" src="https://spindola.me/n8n.svg" />
 </div>
   
 <div align="center"> <br>
