@@ -4,7 +4,7 @@
 
 🏢 I work as a Full Stack Software Developer at TitansDev, with a focus on cloud services, apps integrations and workflow automations.
 
-🌱 I'm a certified Google Cloud Associate Cloud Engineer and an open source enthusiast, currently pursuing an MBA in Software Engineering at USP/Esalq (Brazil).
+🌱 Psychologist turned software developer, certified Google Cloud Associate Cloud Engineer and open source enthusiast, currently pursuing an MBA in Software Engineering at USP/Esalq (Brazil).
 
 </div>
 <div align="center">
