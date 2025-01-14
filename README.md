@@ -17,7 +17,7 @@
  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
  <img align="center" alt="PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
  <img align="center" alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
- <img align="center" alt="WordPress" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" />
+ <img align="center" alt="WordPress" height="30" width="40" src="https://www.svgrepo.com/show/349568/wordpress.svg" />
  <img align="center" alt="Digital Ocean" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" />
  <img align="center" alt="Google Cloud" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
  <img align="center" alt="Supabase" height="30" width="40" src="https://spindola.me/supabase.svg" />
