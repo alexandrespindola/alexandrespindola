@@ -2,9 +2,9 @@
   
 ### Hello I'm, Alexandre Spindola! :handshake:
 
-🏢 I work as a Full Stack Software Developer at TitansDev (Spain), with a focus on cloud services, Jamstack architecture, serverless apps integrations and workflow automations.
+🏢 Integration & Full Stack Developer transitioning to AI-focused applications, with expertise in designing enterprise-grade integration solutions and scalable web applications. Currently based in Köln, Germany, with experience in cloud infrastructure, workflow automations, and growing specialization in AI/GenAI integration.
 
-🌱 Psychologist turned software developer, certified Google Cloud Associate Cloud Engineer and open source enthusiast, currently pursuing an MBA in Software Engineering at USP/Esalq (Brazil).
+🌱 Psychologist turned software developer, certified Google Cloud Associate Cloud Engineer and open source enthusiast, with proven track record in automating complex business processes using modern cloud technologies and architectural patterns.
 
 </div>
 <div align="center">
