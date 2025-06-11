@@ -11,11 +11,12 @@
  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
  <img align="center" alt="Nuxt.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" />
  <img align="center" alt="Astro" height="30" width="40" src="https://astro.build/assets/press/astro-icon-light-gradient.svg" />
+ <img align="center" alt="React" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/react_dark.svg" />
  <img align="center" alt="Tailwind" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
- <img align="center" alt="Deno" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/deno.svg" />
+ <img align="center" alt="Deno" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/deno_dark.svg" />
  <img align="center" alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
  <img align="center" alt="WordPress" height="30" width="40" src="https://www.svgrepo.com/show/349568/wordpress.svg" />
  <img align="center" alt="Digital Ocean" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" />
