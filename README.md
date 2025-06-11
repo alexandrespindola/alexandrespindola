@@ -23,13 +23,13 @@
  <img align="center" alt="Supabase" height="30" width="40" src="https://spindola.me/supabase.svg" />  
  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/postgresql.svg" />
  <img align="center" alt="MongoDB" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/mongodb.svg" />
- <img align="center" alt="n8n" height="30" width="40" src="https://spindola.me/n8n.svg" />
- <img align="center" alt="RabbitMQ" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/rabbitmq.svg" />
  <img align="center" alt="Strapi" height="30" width="40" src="https://spindola.me/strapi.svg" />
 </div>
 </br>
 </div>
 <div align="center">
+ <img align="center" alt="n8n" height="30" width="40" src="https://spindola.me/n8n.svg" />
+ <img align="center" alt="RabbitMQ" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/rabbitmq.svg" />
  <img align="center" alt="Docker" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/docker.svg" />
  <img align="center" alt="Google Cloud" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
  <img align="center" alt="AWS" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/aws_dark.svg" />
