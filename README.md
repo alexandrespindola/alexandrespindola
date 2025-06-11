@@ -17,14 +17,19 @@
  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
  <img align="center" alt="Node" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/nodejs.svg" />
  <img align="center" alt="Deno" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/deno_dark.svg" />
+ <img align="center" alt="Bun" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/bun.svg" />
+ <img align="center" alt="Hono" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/hono.svg" />
  <img align="center" alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
  <img align="center" alt="WordPress" height="30" width="40" src="https://www.svgrepo.com/show/349568/wordpress.svg" />
+ <img align="center" alt="Docker" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/docker.svg" />
  <img align="center" alt="Digital Ocean" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" />
  <img align="center" alt="Google Cloud" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
+ <img align="center" alt="Railway" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/railway_dark.svg" />
  <img align="center" alt="Cloudflare" height="30" width="40" src="https://spindola.me/cloudflare.svg" />
  <img align="center" alt="Supabase" height="30" width="40" src="https://spindola.me/supabase.svg" />
- <img align="center" alt="Strapi" height="30" width="40" src="https://spindola.me/strapi.svg" />
  <img align="center" alt="n8n" height="30" width="40" src="https://spindola.me/n8n.svg" />
+ <img align="center" alt="RabbitMQ" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/rabbitmq.svg" />
+ <img align="center" alt="Strapi" height="30" width="40" src="https://spindola.me/strapi.svg" />
 </div>
   
 <div align="center"> <br>
