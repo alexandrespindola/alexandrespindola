@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hello I'm, Alexandre Spindola! :handshake:
+### Hello I'm, Alexandre! :handshake:
 
 🏢 Specializing in <strong>Full Stack Development and High Performance Automation</strong>, with an  <strong>MBA in Software Engineering</strong>. Proficient in building scalable systems using JAMstack (Vanilla JavaScript, TypeScript, Astro, Vue.js, Nuxt.js) and backend stacks (Node.js, Deno, Go, n8n, Supabase/PostgreSQL). Certified Google Associate Cloud Engineer, skilled in serverless architecture, CI/CD, cloud infrastructure, and performance optimization.
 
@@ -15,6 +15,7 @@
  <img align="center" alt="Tailwind" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+ <img align="center" alt="Go" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/golang_dark.svg" />
  <img align="center" alt="Node" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/nodejs.svg" />
  <img align="center" alt="Deno" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/deno_dark.svg" />
  <img align="center" alt="Bun" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/bun.svg" />
