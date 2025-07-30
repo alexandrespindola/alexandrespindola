@@ -2,9 +2,9 @@
   
 ### Hello I'm, Alexandre Spindola! :handshake:
 
-🏢 Integration & Full Stack Developer transitioning to AI-focused applications, with expertise in designing enterprise-grade integration solutions and scalable web applications. Currently based in Köln, Germany, with experience in cloud infrastructure, workflow automations, and growing specialization in AI/GenAI integration.
+🏢 Specializing in Full Stack Development and High Performance Automation, with an MBA in Software Engineering. Proficient in building scalable systems using JAMstack (Vanilla JavaScript, TypeScript, Astro, Vue.js, Nuxt.js) and backend stacks (Node.js, Deno, Go, n8n, Supabase/PostgreSQL). Certified Google Associate Cloud Engineer, skilled in serverless architecture, CI/CD, cloud infrastructure, and performance optimization.
 
-🌱 Psychologist turned software developer, certified Google Cloud Associate Cloud Engineer and open source enthusiast, with proven track record in automating complex business processes using modern cloud technologies and architectural patterns.
+🌱 Combines Psychology and Digital Marketing expertise to align technical solutions with business goals. Currently deepening knowledge in Go for concurrent, distributed systems and Turso for low-latency applications, while learning German. Fully authorized to work in Europe.
 
 </div>
 <div align="center">
@@ -19,7 +19,6 @@
  <img align="center" alt="Deno" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/deno_dark.svg" />
  <img align="center" alt="Bun" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/bun.svg" />
  <img align="center" alt="Hono" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/hono.svg" />
- <img align="center" alt="Fastify" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/fastify_dark.svg" />
  <img align="center" alt="Supabase" height="30" width="40" src="https://spindola.me/supabase.svg" />  
  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/postgresql.svg" />
  <img align="center" alt="MongoDB" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/mongodb.svg" />
