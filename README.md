@@ -2,7 +2,7 @@
   
 ### Hello I'm, Alexandre Spindola! :handshake:
 
-🏢 Specializing in Full Stack Development and High Performance Automation, with an MBA in Software Engineering. Proficient in building scalable systems using JAMstack (Vanilla JavaScript, TypeScript, Astro, Vue.js, Nuxt.js) and backend stacks (Node.js, Deno, Go, n8n, Supabase/PostgreSQL). Certified Google Associate Cloud Engineer, skilled in serverless architecture, CI/CD, cloud infrastructure, and performance optimization.
+🏢 Specializing in <strong>Full Stack Development and High Performance Automation</strong>, with an  <strong>MBA in Software Engineering</strong>. Proficient in building scalable systems using JAMstack (Vanilla JavaScript, TypeScript, Astro, Vue.js, Nuxt.js) and backend stacks (Node.js, Deno, Go, n8n, Supabase/PostgreSQL). Certified Google Associate Cloud Engineer, skilled in serverless architecture, CI/CD, cloud infrastructure, and performance optimization.
 
 🌱 Combines Psychology and Digital Marketing expertise to align technical solutions with business goals. Currently deepening knowledge in Go for concurrent, distributed systems and Turso for low-latency applications, while learning German. Fully authorized to work in Europe.
 
