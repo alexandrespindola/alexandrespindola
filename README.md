@@ -28,6 +28,8 @@
 </br>
 </div>
 <div align="center">
+ <img align="center" alt="Python" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/python.svg" />
+ <img align="center" alt="Django" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/django.svg" />
  <img align="center" alt="n8n" height="30" width="40" src="https://spindola.me/n8n.svg" />
  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/rabbitmq.svg" />
  <img align="center" alt="Docker" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/docker.svg" />
