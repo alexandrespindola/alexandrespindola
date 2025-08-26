@@ -33,7 +33,7 @@
  <img align="center" alt="Redis" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/redis.svg" />
  <img align="center" alt="Strapi" height="30" width="40" src="https://spindola.me/strapi.svg" />
  <img align="center" alt="n8n" height="30" width="40" src="https://spindola.me/n8n.svg" />
- <img align="center" alt="Google Apps Script" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/gas.svg" />
+ <img align="center" alt="Google Apps Script" height="30" width="30" src="https://assets-bunny-cdn.b-cdn.net/icons/gas.svg" />
  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/rabbitmq.svg" />
  <img align="center" alt="Docker" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/docker.svg" />
  <img align="center" alt="Kubernetes" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/kubernetes.svg" />
