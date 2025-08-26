@@ -26,6 +26,7 @@
  <img align="center" alt="Python" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/python.svg" />
  <img align="center" alt="Django" height="40" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/django.svg" />
  <img align="center" alt="Go" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/golang_dark.svg" />
+ <img align="center" alt="Rust" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/rust_dark.svg" />
 </div>
 </br>
 </div>
