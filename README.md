@@ -8,29 +8,31 @@
 
 </div>
 <div align="center">
+ <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+ <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
  <img align="center" alt="Svelte" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
  <img align="center" alt="Vue" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/vue.svg" />
  <img align="center" alt="Nuxt.js" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/nuxt.svg" />
  <img align="center" alt="Astro" height="30" width="40" src="https://astro.build/assets/press/astro-icon-light-gradient.svg" />
  <img align="center" alt="React" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/react_dark.svg" />
  <img align="center" alt="Tailwind" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
- <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
- <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+ <img align="center" alt="Vite" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/vite.svg" />
  <img align="center" alt="Go" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/golang_dark.svg" />
  <img align="center" alt="Node" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/nodejs.svg" />
  <img align="center" alt="Deno" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/deno_dark.svg" />
  <img align="center" alt="Bun" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/bun.svg" />
  <img align="center" alt="Hono" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/hono.svg" />
- <img align="center" alt="Supabase" height="30" width="40" src="https://spindola.me/supabase.svg" />  
- <img align="center" alt="PostgreSQL" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/postgresql.svg" />
- <img align="center" alt="MongoDB" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/mongodb.svg" />
- <img align="center" alt="Strapi" height="30" width="40" src="https://spindola.me/strapi.svg" />
+
 </div>
 </br>
 </div>
 <div align="center">
+ <img align="center" alt="Supabase" height="30" width="40" src="https://spindola.me/supabase.svg" />  
+ <img align="center" alt="PostgreSQL" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/postgresql.svg" />
+ <img align="center" alt="SQLite" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/sqlite.svg" />
+ <img align="center" alt="MongoDB" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/mongodb.svg" />
+ <img align="center" alt="Strapi" height="30" width="40" src="https://spindola.me/strapi.svg" />
  <img align="center" alt="n8n" height="30" width="40" src="https://spindola.me/n8n.svg" />
- <img align="center" alt="Google Apps Script" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/apps-script.png" /> 
  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/rabbitmq.svg" />
  <img align="center" alt="Docker" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/docker.svg" />
  <img align="center" alt="Google Cloud" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
