@@ -54,7 +54,7 @@
 </div>
   
 <div align="center"> <br>
-  <a href = "mailto:alexandre.spindola11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:alexandre@spindola.me"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexspindola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.xing.com/profile/Alexandre_Spindola" target="_blank"><img src="https://img.shields.io/badge/-XING-%23026466?style=for-the-badge&logo=xing&logoColor=white" target="_blank"></a>
   <a href="https://spindola.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a> 
