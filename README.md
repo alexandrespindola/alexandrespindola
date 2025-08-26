@@ -24,7 +24,7 @@
  <img align="center" alt="Hono" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/hono.svg" />
  <img align="center" alt="GraphQL" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/graphql.svg" />
  <img align="center" alt="Python" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/python.svg" />
- <img align="center" alt="Django" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/django.svg" />
+ <img align="center" alt="Django" height="40" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/django.svg" />
  <img align="center" alt="Go" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/golang_dark.svg" />
 </div>
 </br>
