@@ -16,7 +16,7 @@
  <img align="center" alt="Astro" height="30" width="40" src="https://astro.build/assets/press/astro-icon-light-gradient.svg" />
  <img align="center" alt="React" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/react_dark.svg" />
  <img align="center" alt="Tailwind" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
- <img align="center" alt="Vite" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/vite.svg" />
+ <img align="center" alt="Vite" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/vitejs.svg" />
  <img align="center" alt="Go" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/golang_dark.svg" />
  <img align="center" alt="Node" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/nodejs.svg" />
  <img align="center" alt="Deno" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/deno_dark.svg" />
@@ -29,8 +29,8 @@
 <div align="center">
  <img align="center" alt="Supabase" height="30" width="40" src="https://spindola.me/supabase.svg" />  
  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/postgresql.svg" />
- <img align="center" alt="SQLite" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/sqlite.svg" />
  <img align="center" alt="MongoDB" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/mongodb.svg" />
+ <img align="center" alt="Redis" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/redis.svg" />
  <img align="center" alt="Strapi" height="30" width="40" src="https://spindola.me/strapi.svg" />
  <img align="center" alt="n8n" height="30" width="40" src="https://spindola.me/n8n.svg" />
  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/rabbitmq.svg" />
