@@ -2,9 +2,7 @@
   
 ### Hello I'm, Alexandre! :handshake:
 
-🏢 Specializing in Full Stack Development and High Performance Automation, with an MBA in Software Engineering. Expert in creating tangible business value through scalable end-to-end systems: JAMstack frontends (JavaScript, TypeScript, Astro, Svelte, Vue, Nuxt) + versatile backend (Node.js, Deno, Go, n8n, Supabase/PostgreSQL). Certified Google Associate Cloud Engineer, skilled in serverless architecture, CI/CD, cloud infrastructure, and performance optimization.
-
-🌱 Combines Psychology and Digital Marketing expertise to bridge complex technical requirements with strategic business objectives. Currently expanding expertise in Go for highly concurrent distributed systems and high-performance APIs, alongside Rust for memory-safe systems programming (zero-cost abstractions, fearless concurrency, and blazing-fast performance), and advancing to Kubernetes for container orchestration and microservices architecture. Leveraging edge-native databases like Turso for globally distributed applications and seamless integrations. Fully authorized to work in Europe.
+Software Engineer | Full Stack Developer | Automation Specialist. Building scalable systems with JAMstack (Astro, Svelte, Vue) & Backend (Node.js, Go, Supabase). GCP Certified Engineer focused on serverless & performance. 🌱 Exploring Go, Rust & Kubernetes.
 
 </div>
 <div align="center">
