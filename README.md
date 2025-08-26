@@ -2,12 +2,13 @@
   
 ### Hello I'm, Alexandre! :handshake:
 
-🏢 Specializing in <strong>Full Stack Development and High Performance Automation</strong>, with an  <strong>MBA in Software Engineering</strong>. Proficient in building scalable systems using JAMstack (Vanilla JavaScript, TypeScript, Astro, Vue.js, Nuxt.js) and backend stacks (Node.js, Deno, Go, n8n, Supabase/PostgreSQL). Certified Google Associate Cloud Engineer, skilled in serverless architecture, CI/CD, cloud infrastructure, and performance optimization.
+🏢 Specializing in <strong>Full Stack Development and High Performance Automation</strong>, with an  <strong>MBA in Software Engineering</strong>. Proficient in building scalable systems using JAMstack (Vanilla JavaScript, TypeScript, Astro, Svelte, Vue, Nuxt) and backend stacks (Node.js, Deno, Go, n8n, Supabase/PostgreSQL). Certified Google Associate Cloud Engineer, skilled in serverless architecture, CI/CD, cloud infrastructure, and performance optimization.
 
 🌱 Combines Psychology and Digital Marketing expertise to align technical solutions with business goals. Currently deepening knowledge in Go for concurrent, distributed systems and Turso for low-latency applications, while learning German. Fully authorized to work in Europe.
 
 </div>
 <div align="center">
+ <img align="center" alt="Svelte" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
  <img align="center" alt="Vue" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/vue.svg" />
  <img align="center" alt="Nuxt.js" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/nuxt.svg" />
  <img align="center" alt="Astro" height="30" width="40" src="https://astro.build/assets/press/astro-icon-light-gradient.svg" />
