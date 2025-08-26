@@ -4,7 +4,7 @@
 
 🏢 Specializing in <strong>Full Stack Development and High Performance Automation</strong>, with an  <strong>MBA in Software Engineering</strong>. Proficient in building scalable systems using JAMstack (Vanilla JavaScript, TypeScript, Astro, Svelte, Vue, Nuxt) and backend stacks (Node.js, Deno, Go, n8n, Supabase/PostgreSQL). Certified Google Associate Cloud Engineer, skilled in serverless architecture, CI/CD, cloud infrastructure, and performance optimization.
 
-🌱 Combines Psychology and Digital Marketing expertise to align technical solutions with business goals. Currently deepening knowledge in Go for concurrent, distributed systems and Turso for low-latency applications, while learning German. Fully authorized to work in Europe.
+🌱 Combines Psychology and Digital Marketing expertise to align technical solutions with business goals. Currently deepening knowledge in Go for concurrent, distributed systems and Turso for low-latency applications.  Fully authorized to work in Europe.
 
 </div>
 <div align="center">
