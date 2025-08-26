@@ -22,6 +22,7 @@
  <img align="center" alt="Deno" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/deno_dark.svg" />
  <img align="center" alt="Bun" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/bun.svg" />
  <img align="center" alt="Hono" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/hono.svg" />
+ <img align="center" alt="GraphQL" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/graphql.svg" />
 
 </div>
 </br>
