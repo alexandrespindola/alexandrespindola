@@ -2,7 +2,8 @@
   
 ### Hello I'm, Alexandre! :handshake:
 
-Software Engineer | Full Stack Developer | Automation Specialist. Building scalable systems with JAMstack (Astro, Svelte, Vue) & Backend (Node.js, Go, Supabase). GCP Certified Engineer focused on serverless & performance. 🌱 Exploring Go, Rust & Kubernetes.
+Software Engineer | Full Stack Developer | Automation Specialist.<br>
+Building scalable systems with JAMstack (Astro, Svelte, Vue) & Backend (Node.js, Go, Supabase). GCP Certified Engineer focused on serverless & performance. 🌱 Exploring Go, Rust & Kubernetes.
 
 </div>
 <div align="center">
