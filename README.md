@@ -46,7 +46,8 @@
  <img align="center" alt="Gemini" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/gemini.svg" />
  <img align="center" alt="Mistral" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/mistral.svg" />
  <img align="center" alt="Claude" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/claude.svg" />
- <img align="center" alt="Perplexity" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/Perplexity.svg" />
+ <img align="center" alt="Hugging Face" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/hugging_face.svg" />
+  
 </div>
   
 <div align="center"> <br>
