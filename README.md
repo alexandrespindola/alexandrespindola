@@ -10,45 +10,45 @@ Building scalable systems with JAMstack (Astro, Svelte, Vue) & Backend (Node.js,
  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
  <img align="center" alt="Svelte" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" />
- <img align="center" alt="Vue" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/vue.svg" />
- <img align="center" alt="Nuxt.js" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/nuxt.svg" />
+ <img align="center" alt="Vue" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/vue.svg" />
+ <img align="center" alt="Nuxt.js" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/nuxt.svg" />
  <img align="center" alt="Astro" height="30" width="40" src="https://astro.build/assets/press/astro-icon-light-gradient.svg" />
- <img align="center" alt="React" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/react_dark.svg" />
- <img align="center" alt="Sass" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/sass.svg" />
+ <img align="center" alt="React" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/react_dark.svg" />
+ <img align="center" alt="Sass" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/sass.svg" />
  <img align="center" alt="Tailwind" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
- <img align="center" alt="Vite" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/vitejs.svg" />
- <img align="center" alt="Node" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/nodejs.svg" />
- <img align="center" alt="Deno" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/deno_dark.svg" />
- <img align="center" alt="Bun" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/bun.svg" />
- <img align="center" alt="Hono" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/hono.svg" />
- <img align="center" alt="GraphQL" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/graphql.svg" />
- <img align="center" alt="Python" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/python.svg" />
- <img align="center" alt="Django" height="40" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/django.svg" />
- <img align="center" alt="Go" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/golang_dark.svg" />
- <img align="center" alt="Rust" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/rust_dark.svg" />
+ <img align="center" alt="Vite" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/vitejs.svg" />
+ <img align="center" alt="Node" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/nodejs.svg" />
+ <img align="center" alt="Deno" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/deno_dark.svg" />
+ <img align="center" alt="Bun" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/bun.svg" />
+ <img align="center" alt="Hono" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/hono.svg" />
+ <img align="center" alt="GraphQL" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/graphql.svg" />
+ <img align="center" alt="Python" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/python.svg" />
+ <img align="center" alt="Django" height="40" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/django.svg" />
+ <img align="center" alt="Go" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/golang_dark.svg" />
+ <img align="center" alt="Rust" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/rust_dark.svg" />
 </div>
 </br>
 </div>
 <div align="center">
  <img align="center" alt="Supabase" height="30" width="40" src="https://spindola.me/supabase.svg" />  
- <img align="center" alt="PostgreSQL" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/postgresql.svg" />
- <img align="center" alt="MongoDB" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/mongodb.svg" />
- <img align="center" alt="Redis" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/redis.svg" />
+ <img align="center" alt="PostgreSQL" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/postgresql.svg" />
+ <img align="center" alt="MongoDB" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/mongodb.svg" />
+ <img align="center" alt="Redis" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/redis.svg" />
  <img align="center" alt="Strapi" height="30" width="40" src="https://spindola.me/strapi.svg" />
  <img align="center" alt="n8n" height="30" width="40" src="https://spindola.me/n8n.svg" />
- <img align="center" alt="Google Apps Script" height="30" width="30" src="https://assets-bunny-cdn.b-cdn.net/icons/gas.svg" />
- <img align="center" alt="RabbitMQ" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/rabbitmq.svg" />
- <img align="center" alt="Docker" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/docker.svg" />
- <img align="center" alt="Kubernetes" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/kubernetes.svg" />
+ <img align="center" alt="Google Apps Script" height="30" width="30" src="https://flash-cdn.pages.dev/assets/img/icons/gas.svg" />
+ <img align="center" alt="RabbitMQ" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/rabbitmq.svg" />
+ <img align="center" alt="Docker" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/docker.svg" />
+ <img align="center" alt="Kubernetes" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/kubernetes.svg" />
  <img align="center" alt="Google Cloud" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
- <img align="center" alt="AWS" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/aws_dark.svg" />
- <img align="center" alt="Linux" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/linux.svg" />
- <img align="center" alt="Railway" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/railway_dark.svg" />
+ <img align="center" alt="AWS" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/aws_dark.svg" />
+ <img align="center" alt="Linux" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/linux.svg" />
+ <img align="center" alt="Railway" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/railway_dark.svg" />
  <img align="center" alt="Cloudflare" height="30" width="40" src="https://spindola.me/cloudflare.svg" />
- <img align="center" alt="Gemini" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/gemini.svg" />
- <img align="center" alt="Mistral" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/mistral.svg" />
- <img align="center" alt="Claude" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/claude.svg" />
- <img align="center" alt="Hugging Face" height="30" width="40" src="https://assets-bunny-cdn.b-cdn.net/icons/hugging_face.svg" />
+ <img align="center" alt="Gemini" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/gemini.svg" />
+ <img align="center" alt="Mistral" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/mistral.svg" />
+ <img align="center" alt="Claude" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/claude.svg" />
+ <img align="center" alt="Hugging Face" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/hugging_face.svg" />
   
 </div>
   
