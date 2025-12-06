@@ -30,7 +30,7 @@ Building scalable systems with JAMstack (Astro, Svelte, Vue) & Backend (Node.js,
 </br>
 </div>
 <div align="center">
- <img align="center" alt="Supabase" height="30" width="40" src="https://spindola.me/supabase.svg" />  
+ <img align="center" alt="Supabase" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/supabase.svg" />  
  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/postgresql.svg" />
  <img align="center" alt="MongoDB" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/mongodb.svg" />
  <img align="center" alt="Redis" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/redis.svg" />
