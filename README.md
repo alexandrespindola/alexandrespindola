@@ -3,7 +3,7 @@
 ### Hello I'm, Alexandre! :handshake:
 
 Software Architect | Full Stack Developer | Automation Specialist.<br>
-Building scalable systems with JAMstack (Astro, Svelte, Vue) & Backend (Node.js, Go, Supabase). GCP Certified Engineer focused on serverless & performance. 🌱 Exploring Go, Rust & Kubernetes.
+Building scalable systems with JAMstack (Astro, Svelte, Vue) & Backend (Node.js, Go, Supabase). GCP Certified Engineer focused on serverless & performance. 🌱
 
 </div>
 <div align="center">
@@ -34,8 +34,8 @@ Building scalable systems with JAMstack (Astro, Svelte, Vue) & Backend (Node.js,
  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/postgresql.svg" />
  <img align="center" alt="MongoDB" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/mongodb.svg" />
  <img align="center" alt="Redis" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/redis.svg" />
- <img align="center" alt="Strapi" height="30" width="40" src="https://spindola.me/strapi.svg" />
- <img align="center" alt="n8n" height="30" width="40" src="https://spindola.me/n8n.svg" />
+ <img align="center" alt="Strapi" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/strapi.svg" />
+ <img align="center" alt="n8n" height="30" width="40" src="hhttps://flash-cdn.pages.dev/assets/img/icons/n8n.svg" />
  <img align="center" alt="Google Apps Script" height="30" width="30" src="https://flash-cdn.pages.dev/assets/img/icons/gas.svg" />
  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/rabbitmq.svg" />
  <img align="center" alt="Docker" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/docker.svg" />
@@ -44,7 +44,7 @@ Building scalable systems with JAMstack (Astro, Svelte, Vue) & Backend (Node.js,
  <img align="center" alt="AWS" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/aws_dark.svg" />
  <img align="center" alt="Linux" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/linux.svg" />
  <img align="center" alt="Railway" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/railway_dark.svg" />
- <img align="center" alt="Cloudflare" height="30" width="40" src="https://spindola.me/cloudflare.svg" />
+ <img align="center" alt="Cloudflare" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/cloudflare.svg" />
  <img align="center" alt="Gemini" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/gemini.svg" />
  <img align="center" alt="Mistral" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/mistral.svg" />
  <img align="center" alt="Claude" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/claude.svg" />
