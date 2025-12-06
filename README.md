@@ -13,7 +13,6 @@ Building scalable systems with JAMstack (Astro, Svelte, Vue) & Backend (Node.js,
  <img align="center" alt="Vue" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/vue.svg" />
  <img align="center" alt="Nuxt.js" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/nuxt.svg" />
  <img align="center" alt="Astro" height="30" width="40" src="https://astro.build/assets/press/astro-icon-light-gradient.svg" />
- <img align="center" alt="React" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/react_dark.svg" />
  <img align="center" alt="Sass" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/sass.svg" />
  <img align="center" alt="Tailwind" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
  <img align="center" alt="Vite" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/vitejs.svg" />
@@ -24,8 +23,6 @@ Building scalable systems with JAMstack (Astro, Svelte, Vue) & Backend (Node.js,
  <img align="center" alt="GraphQL" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/graphql.svg" />
  <img align="center" alt="Python" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/python.svg" />
  <img align="center" alt="Django" height="40" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/django.svg" />
- <img align="center" alt="Go" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/golang_dark.svg" />
- <img align="center" alt="Rust" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/rust_dark.svg" />
 </div>
 </br>
 </div>
@@ -35,7 +32,7 @@ Building scalable systems with JAMstack (Astro, Svelte, Vue) & Backend (Node.js,
  <img align="center" alt="MongoDB" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/mongodb.svg" />
  <img align="center" alt="Redis" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/redis.svg" />
  <img align="center" alt="Strapi" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/strapi.svg" />
- <img align="center" alt="n8n" height="30" width="40" src="hhttps://flash-cdn.pages.dev/assets/img/icons/n8n.svg" />
+ <img align="center" alt="n8n" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/n8n.svg" />
  <img align="center" alt="Google Apps Script" height="30" width="30" src="https://flash-cdn.pages.dev/assets/img/icons/gas.svg" />
  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/rabbitmq.svg" />
  <img align="center" alt="Docker" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/docker.svg" />
@@ -46,9 +43,7 @@ Building scalable systems with JAMstack (Astro, Svelte, Vue) & Backend (Node.js,
  <img align="center" alt="Railway" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/railway_dark.svg" />
  <img align="center" alt="Cloudflare" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/cloudflare.svg" />
  <img align="center" alt="Gemini" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/gemini.svg" />
- <img align="center" alt="Mistral" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/mistral.svg" />
  <img align="center" alt="Claude" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/claude.svg" />
- <img align="center" alt="Hugging Face" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/hugging_face.svg" />
   
 </div>
   
