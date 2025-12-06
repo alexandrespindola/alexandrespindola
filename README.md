@@ -20,8 +20,6 @@ Software Engineer | MBA | Full Stack JS/TS, Node, Nest, Angular, Vue | Automatio
  <img align="center" alt="Bun" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/bun.svg" />
  <img align="center" alt="Hono" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/hono.svg" />
  <img align="center" alt="GraphQL" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/graphql.svg" />
- <img align="center" alt="Python" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/python.svg" />
- <img align="center" alt="Django" height="40" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/django.svg" />
 </div>
 </br>
 </div>
@@ -31,11 +29,9 @@ Software Engineer | MBA | Full Stack JS/TS, Node, Nest, Angular, Vue | Automatio
  <img align="center" alt="MongoDB" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/mongodb.svg" />
  <img align="center" alt="Redis" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/redis.svg" />
  <img align="center" alt="Strapi" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/strapi.svg" />
- <img align="center" alt="n8n" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/n8n.svg" />
  <img align="center" alt="Google Apps Script" height="30" width="30" src="https://flash-cdn.pages.dev/assets/img/icons/gas.svg" />
  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/rabbitmq.svg" />
  <img align="center" alt="Docker" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/docker.svg" />
- <img align="center" alt="Kubernetes" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/kubernetes.svg" />
  <img align="center" alt="Google Cloud" height="30" width="40" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
  <img align="center" alt="AWS" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/aws_dark.svg" />
  <img align="center" alt="Linux" height="30" width="40" src="https://flash-cdn.pages.dev/assets/img/icons/linux.svg" />
