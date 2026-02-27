@@ -2,8 +2,7 @@
   
 ### Hello I'm, Alexandre! :handshake:
 
-Software Engineer | MBA | Full Stack JS/TS, Node, Nest, Angular, Vue | Automation | GCP Certified
-
+Full-Stack & AI Automation Engineer | NestJS · TypeScript · Vue · n8n | Contractor EU 🇪🇺 | GCP | MBA Software Engineering
 </div>
 <div align="center">
  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
