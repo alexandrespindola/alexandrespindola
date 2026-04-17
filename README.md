@@ -32,7 +32,6 @@ Full-Stack & AI Automation Engineer | NestJS · TypeScript · Vue · n8n | Contr
 <td align="center"><img alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></td>
 <td align="center"><img alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></td>
 <td align="center"><img alt="Redis" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/></td>
-<td align="center"><img alt="Strapi" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg"/></td>
 <td align="center"><img alt="RabbitMQ" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/></td>
 <td align="center"><img alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></td>
 <td align="center"><img alt="Google Cloud" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/></td>
