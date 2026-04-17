@@ -2,7 +2,7 @@
 
 ### Hello I'm, Alexandre! :handshake:
 
-Full-Stack & AI Automation Engineer | NestJS · TypeScript · Vue · n8n | Contractor EU 🇪🇺 | GCP | MBA Software Engineering
+Full-Stack & AI Automation Engineer | NestJS · TypeScript · Vue · n8n | EU 🇪🇺 | GCP | MBA Software Engineering
 
 </div>
 
